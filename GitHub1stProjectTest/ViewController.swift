@@ -15,10 +15,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-    
+        println("Swag2")
         
         
-        println("SWAG")
+
         
         
         // Do any additional setup after loading the view, typically from a nib.
